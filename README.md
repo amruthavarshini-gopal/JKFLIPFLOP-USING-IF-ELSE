@@ -117,7 +117,7 @@ endmodule
 
 
 
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL LOGIC FOR FLIPFLOPS:**
 
 
 
@@ -125,7 +125,7 @@ endmodule
 
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIGRAMS FOR FLIP FLOPS:**
 
 
 ![de3](https://github.com/23002776/JKFLIPFLOP-USING-IF-ELSE/assets/145742657/374abd87-38dd-45b7-8004-a62f2140cf76)
@@ -135,7 +135,7 @@ endmodule
 
 
 
-**RESULTS**
+**RESULT:**
 
 
 
