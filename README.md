@@ -13,7 +13,7 @@ To implement  JK flipflop using verilog and validating their functionality using
 Quartus prime
 
 
-**THEORY**
+**THEORY:**
 
 
 **JK Flip-Flop**
@@ -55,7 +55,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 
 
-**Procedure**
+**PROCEDURE:**
 
 
 1.Go to quartus software.  
@@ -71,11 +71,11 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
  6.Run the program.
 
  
-**PROGRAM**
+**PROGRAM:**
 
 
-Developed by :Abinaya A
-Reg no:212223040003
+Developed by : Amruthavarshini Gopal
+Reg no:212223230013
 
 
 ```
