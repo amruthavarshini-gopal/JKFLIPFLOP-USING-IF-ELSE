@@ -75,6 +75,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 
 Developed by : Amruthavarshini Gopal
+
 Reg no:212223230013
 
 
